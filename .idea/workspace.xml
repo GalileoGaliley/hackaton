@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5d19e7af-3aeb-4d89-a388-cde3510896ee" name="Changes" comment="FIX">
+      <change beforePath="$PROJECT_DIR$/client/src/store/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/store/index.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript JSX File" />
+        <option value="JavaScript File" />
+        <option value="TypeScript File" />
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="0699e308-81f3-4d07-b1c6-b7c4fbff85fe" />
+        <option name="url" value="https://github.com/bogomolov/buildup-hackaton.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="ProjectId" id="2RICLmQmHnS4Xu6CWsV6oDiP6EN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/msforyou/buildup-hackaton/client/src/store/mapDrawData",
+    "list.type.of.created.stylesheet": "SCSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "/Users/msforyou/buildup-hackaton/client/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/client/src/store/mapDrawData" />
+      <recent name="$PROJECT_DIR$/client/src/utils" />
+      <recent name="$PROJECT_DIR$/client/src" />
+      <recent name="$PROJECT_DIR$/client/src/store" />
+      <recent name="$PROJECT_DIR$/client" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/client/src/assets" />
+      <recent name="$PROJECT_DIR$/client/src/components/header/assets/images" />
+      <recent name="$PROJECT_DIR$/client/public" />
+      <recent name="$PROJECT_DIR$/client/src/pages/mapPage/components/map/assets/images" />
+      <recent name="$PROJECT_DIR$/client/src/pages/mapPage/components/mapComponent/assets/images" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5d19e7af-3aeb-4d89-a388-cde3510896ee" name="Changes" comment="" />
+      <created>1686928154118</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686928154118</updated>
+      <workItem from="1686928155304" duration="101211000" />
+    </task>
+    <task id="LOCAL-00001" summary="Стор">
+      <created>1686937022679</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1686937022679</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Доработка стора, авторизация и 3D">
+      <created>1686975133199</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1686975133199</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Доработка стора, добавление получение данных, и 3D">
+      <created>1687009446172</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1687009446172</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Доработка модели, добавление интерфейса">
+      <created>1687041379531</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1687041379531</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Доработка модели, скайбокс, лого">
+      <created>1687046643838</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1687046643838</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Модальное окно, правка модели">
+      <created>1687058685829</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1687058685829</updated>
+    </task>
+    <task id="LOCAL-00007" summary="FIX">
+      <created>1687085516649</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1687085516649</updated>
+    </task>
+    <task id="LOCAL-00008" summary="FIX">
+      <created>1687089637488</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1687089637488</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Стор" />
+    <MESSAGE value="Доработка стора, авторизация и 3D" />
+    <MESSAGE value="Доработка стора, добавление получение данных, и 3D" />
+    <MESSAGE value="Доработка модели, добавление интерфейса" />
+    <MESSAGE value="Доработка модели, скайбокс, лого" />
+    <MESSAGE value="Модальное окно, правка модели" />
+    <MESSAGE value="FIX" />
+    <option name="LAST_COMMIT_MESSAGE" value="FIX" />
+  </component>
+</project>
