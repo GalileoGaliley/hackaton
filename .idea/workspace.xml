@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d19e7af-3aeb-4d89-a388-cde3510896ee" name="Changes" comment="FIX">
-      <change beforePath="$PROJECT_DIR$/client/src/store/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/store/index.ts" afterDir="false" />
-    </list>
+    <list default="true" id="5d19e7af-3aeb-4d89-a388-cde3510896ee" name="Changes" comment="init" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,11 +28,11 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -42,6 +40,9 @@
         <option name="url" value="https://github.com/bogomolov/buildup-hackaton.git" />
       </UrlAndAccount>
     </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2RICLmQmHnS4Xu6CWsV6oDiP6EN" />
   <component name="ProjectViewState">
@@ -53,14 +54,14 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/msforyou/buildup-hackaton/client/src/store/mapDrawData",
+    "last_opened_file_path": "/Users/msforyou/hackaton",
     "list.type.of.created.stylesheet": "SCSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "ts.external.directory.path": "/Users/msforyou/buildup-hackaton/client/node_modules/typescript/lib",
+    "ts.external.directory.path": "/Users/msforyou/hackaton/client/node_modules/typescript/lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -89,6 +90,7 @@
       <option name="presentableId" value="Default" />
       <updated>1686928154118</updated>
       <workItem from="1686928155304" duration="101211000" />
+      <workItem from="1687168525646" duration="107000" />
     </task>
     <task id="LOCAL-00001" summary="Стор">
       <created>1686937022679</created>
@@ -146,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687089637488</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="init">
+      <created>1687168621498</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1687168621498</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,6 +180,7 @@
     <MESSAGE value="Доработка модели, скайбокс, лого" />
     <MESSAGE value="Модальное окно, правка модели" />
     <MESSAGE value="FIX" />
-    <option name="LAST_COMMIT_MESSAGE" value="FIX" />
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
 </project>
